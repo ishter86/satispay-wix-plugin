@@ -1,0 +1,9 @@
+{
+  "name": "satispay-wix-signer",
+  "version": "1.0.0",
+  "description": "Satispay signing service and payment bridge for Wix integration",
+  "private": true,
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
