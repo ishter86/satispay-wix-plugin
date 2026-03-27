@@ -59,7 +59,7 @@ Save the `key_id` from the response.
 ### Step 2: Deploy to Vercel
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/satispay-wix-plugin.git
+git clone https://github.com/ishter86/satispay-wix-plugin.git
 cd satispay-wix-plugin/vercel
 npm install
 ```
